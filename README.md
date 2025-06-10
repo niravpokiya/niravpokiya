@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💻 Nirav Pokiya
 
-<!--
-**niravpokiya/niravpokiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Nirav, a 3rd-year Computer Engineering student passionate about **Competitive Programming**, **Data Structures & Algorithms**, and building scalable **Full Stack Web Applications** using **React** and **Spring Boot**.
 
-Here are some ideas to get you started:
+Currently exploring system design and building real-world projects 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=niravpokiya&color=blue)
+
+## 🏹 Competitive Programming
+- 🔥 Regular participant on **LeetCode**, **Codeforces**, and **CodeChef**
+- 🧠 Solved over **1300+ DSA + CP problems** across platforms
+
+### 👨‍💻 My Social Profiles
+- [Linked-in](https://www.linkedin.com/in/nirav-pokiya/)
+  
+### 👨‍💻 My Profiles
+- 🟧 [LeetCode](https://leetcode.com/Niravpokiya)
+- 🔵 [Codeforces](https://codeforces.com/profile/Niravpokiya)
+- 🟣 [CodeChef](https://www.codechef.com/users/niravpokiya)
+- 🟠 [CSES](https://cses.fi/user/223924)
+
