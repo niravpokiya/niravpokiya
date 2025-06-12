@@ -10,6 +10,12 @@ Currently exploring system design and building real-world projects 🚀
 - 🔥 Regular participant on **LeetCode**, **Codeforces**, and **CodeChef**
 - 🧠 Solved over **1300+ DSA + CP problems** across platforms
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niravpokiya&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=niravpokiya&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niravpokiya&layout=compact&theme=radical)  
+
 ### 👨‍💻 My Social Profiles
 - [Linked-in](https://www.linkedin.com/in/nirav-pokiya/)
   
@@ -18,9 +24,3 @@ Currently exploring system design and building real-world projects 🚀
 - 🔵 [Codeforces](https://codeforces.com/profile/Niravpokiya)
 - 🟣 [CodeChef](https://www.codechef.com/users/niravpokiya)
 - 🟠 [CSES](https://cses.fi/user/223924)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niravpokiya&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=niravpokiya&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niravpokiya&layout=compact&theme=radical)
