@@ -4,7 +4,20 @@ Hi there! 👋 I'm Nirav, a 3rd-year Computer Engineering student passionate abo
 
 Currently exploring system design and building real-world projects 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=niravpokiya&color=blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20my%20profile!-00B8D4?style=for-the-badge&logo=github" />
+</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border: 2px solid #00bcd4; border-radius: 15px;">
+    <tr>
+      <td align="center">
+        <h3 style="margin: 0; color: #00bcd4; width : 60px; ">👀</h3>
+        <img src="https://komarev.com/ghpvc/?username=niravpokiya&style=flat&color=00bcd4" style="width:140px;" alt="Profile Views">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🏹 Competitive Programming
 - 🔥 Regular participant on **LeetCode**, **Codeforces**, and **CodeChef**
