@@ -19,3 +19,8 @@ Currently exploring system design and building real-world projects 🚀
 - 🟣 [CodeChef](https://www.codechef.com/users/niravpokiya)
 - 🟠 [CSES](https://cses.fi/user/223924)
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niravpokiya&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=niravpokiya&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niravpokiya&layout=compact&theme=radical)
