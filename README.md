@@ -18,10 +18,7 @@ Currently exploring system design and building real-world projects 🚀
   </table>
 </div>
 
-
-## 🏹 Competitive Programming
-- 🔥 Regular participant on **LeetCode**, **Codeforces**, and **CodeChef**
-- 🧠 Solved over **1700+ DSA + CP problems** across platforms
+ 
 
 ### 📊 GitHub Stats
 
